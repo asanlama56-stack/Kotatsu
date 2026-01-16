@@ -18,7 +18,6 @@ jobs:
              [
                {
                  "type": "body",
-                 "regex": ".*DELETE THIS SECTION IF YOU HAVE READ AND ACKNOWLEDGED IT.*",
                  "message": "The acknowledgment section was not removed."
                },
                {
